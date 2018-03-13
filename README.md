@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+
+
+# 一个vuex 数据管理的checklist组件
+![avatar](https://github.com/mrmcree/check-list/blob/master/static/images/TIM图片20180313141339.png?raw=true)
 ## Build Setup
 
 ``` bash
